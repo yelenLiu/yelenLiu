@@ -19,8 +19,8 @@ A Codex skill for planning and validating complex software tasks before executio
 
 ## Writing
 
-Personal blog — coming soon. I write about engineering experiments, lessons learned, and the assumptions worth testing.
+[Read my blog](https://yelen-blog.yelen4430.workers.dev/) — engineering experiments, lessons learned, and the assumptions worth testing.
 
 ## Connect
 
-[X / Twitter](https://x.com/yelen480820) · [GitHub](https://github.com/yelenLiu)
+[Blog](https://yelen-blog.yelen4430.workers.dev/) · [X / Twitter](https://x.com/yelen480820) · [GitHub](https://github.com/yelenLiu)
